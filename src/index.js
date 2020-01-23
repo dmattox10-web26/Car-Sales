@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import { createStore } from 'redux'
-import { connect, Provider } from 'react-redux'
+import { Provider } from 'react-redux'
 
 import { carReducer } from './reducers/carReducer'
 
